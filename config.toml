@@ -1,0 +1,9 @@
+[api]
+port = 8080
+
+[database]
+host = "localhost"
+port = "5434"
+user = "postgres"
+pass = "cHJvbWV0aGV1cw=="
+database = "tododb"
